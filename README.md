@@ -26,8 +26,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+![walkthrough.gif](https://github.com/Alisasa/Wishlist/master/Walkthrough.gif)
 
-<img src='https://submissions.us-east-1.linodeobjects.com/and102/_yomTYce.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
